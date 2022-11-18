@@ -13,7 +13,7 @@ module.exports = {
       resolve: 'gatsby-plugin-gatsby-cloud',
       options: {
         allPageHeaders: [
-          'Link: </fonts/Inter.var.woff2>; rel=preload; as=font',
+          'Link: </static/Inter.var.woff2>; rel=preload; as=font',
         ]
       }
     }
