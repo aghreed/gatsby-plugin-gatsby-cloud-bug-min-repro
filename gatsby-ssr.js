@@ -5,7 +5,7 @@ export const onRenderBody = ({ setHeadComponents }) => {
     <link
       key="interFont"
       rel="preload"
-      href="/fonts/Inter.var.woff2"
+      href="/src/fonts/Inter.var.woff2"
       as="font"
       type="font/woff2"
       crossOrigin="anonymous"
